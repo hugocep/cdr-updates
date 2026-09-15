@@ -1,0 +1,5 @@
+{
+  "version": "1.0.2",
+  "sha256": "43c1741c7214618adbd9a76f5106f366f324b197e0e66b7f7a691e8adf155916",
+  "notas": "Migracion: fija la URL dentro del programa y elimina el servidor-actualizaciones.txt."
+}
